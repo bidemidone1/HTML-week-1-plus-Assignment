@@ -1,0 +1,32 @@
+h3{
+    color: violet;
+    background-color: brown;
+}
+
+.tmax1{
+    color: green;
+}
+
+.tmax3{
+    color: teal;
+}
+
+#tmax1{
+     color:rosybrown ;
+}
+
+#tmax2{
+    color:darkkhaki;
+}
+
+#tmax{
+    color:red;
+}
+
+div{height: 300px; width: 50%;
+    background-color: burlywood;
+}
+
+div{height: 150px; width: 65%;
+    background-color: hsl(263, 57%, 70%);
+}
